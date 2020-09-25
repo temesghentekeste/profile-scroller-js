@@ -14,10 +14,12 @@
     "no-param-reassign": "off",
     "eol-last": "off",
     "arrow-parens": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "no-plusplus": "off"
   },
   "ignorePatterns": [
     "dist/",
-    "build/"
+    "build/",
+    "deploy/"
   ]
 }
