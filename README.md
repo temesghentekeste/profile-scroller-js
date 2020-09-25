@@ -1,7 +1,7 @@
 # Profile Scroller
 
-[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/temesghentekeste/form-validation-js/pulls)
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/temesghentekeste/form-validation-js/issues)
+[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/temesghentekeste/profile-scroller-js/pulls)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/temesghentekeste/profile-scroller-js/issues)
 
 
 ## Content
@@ -17,23 +17,17 @@
 
 ## About <a name = "about"></a>
 
-This project is intended to showcase form validatin skills in JavaScript using Regular Expressions. 
-In nutshell, the project allows a user to:
-<li>validate a name</li>
-<li>validate a zipcode</li>
-<li>validate an email address</li>
-<li>validate a phone number</li>
+A mini project to showcase ES6 iterators.
 
 ## 🔴 Live Demo <a name = "live"></a>
 
-**Click [here](https://formvalidation-js-temesghen.netlify.app/) in order to see a Live Demo of this project.**
+**Click [here](https://profile-scroller-js.netlify.app/) in order to see a Live Demo of this project.**
 
 ## Screenshots <a name = "screenshots"></a>
 
 ### Form with failed validation
-![screenshot](./images/screenshot_fail.png) 
-### Form with successful validation
-![screenshot](./images/screenshot_success.png) 
+![screenshot](./images/screenshot.png) 
+
 
 ## 🔧 Built with<a name = "with"></a>
 
@@ -47,8 +41,8 @@ In nutshell, the project allows a user to:
 ### Run a Local Copy
 - Download the repository to a local directory on your computer.
 - Or run the following commands on the terminal
-  - git clone https://github.com/temesghentekeste/form-validation-js.git
-  - cd form-validation-js
+  - git clone https://github.com/temesghentekeste/profile-scroller-js.git
+  - cd profile-scroller-js
   - open index.html file
 
 ## Prerequisites<a name = "prerequisites"></a>
@@ -67,7 +61,7 @@ In nutshell, the project allows a user to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/temesghentekeste/form-validation-js/issues).
+Feel free to check the [issues page](https://github.com/temesghentekeste/profile-scroller-js/issues).
 
 
 ## 👍 Show your support
